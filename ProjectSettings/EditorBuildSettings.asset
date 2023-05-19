@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GymLevel.unity
     guid: 74eb3f9cb5707b045b9ce6d2eb34aa8e
+  - enabled: 1
+    path: Assets/TestBlock.unity
+    guid: 127e1fbe18826e24791c34fdf32d68a1
   m_configObjects: {}
